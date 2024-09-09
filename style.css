@@ -5,7 +5,7 @@
 .grid {
     height: 400px;
     width: 400px;
-    background-color: #dcd6bc;
+   
     display: flex;
     flex-wrap: wrap;
     margin-left: 50px;
@@ -24,14 +24,14 @@ div {
     width: 40px;
     height: 40px;
     border: 5px solid;
-    background-color: #f5f3eb #bab7a9 #bab7a9 #fff9db; /* Single background color */
+    background-color: #f5f3eb; /* Single background color */
     box-sizing: border-box;
 }
 
 .bomb {    
     width: 40px;
     height: 40px;
-    border: 5px solid red; /* Combine border color and style */
+    border: 5px solid black; /* Combine border color and style */
     box-sizing: border-box;
 }
 
